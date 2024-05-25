@@ -21,7 +21,7 @@ repository               : "Lightninghkm/Lightninghkm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "km.png"
   name             : "Kaiming Huang"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
