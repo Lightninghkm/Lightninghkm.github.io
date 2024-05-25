@@ -13,3 +13,5 @@ Research Interests
 ======
 My primary area of expertise lies in advancing the field of software security, program hardening, static/dynamic program analysis, automatic vulnerability detection, exploit generation, and reverse engineering. My research is driven by the goal of contributing to the development of robust, effective, and efficient defenses against memory-related vulnerabilities. To be more specific, my research aims to ensure the security of systems and software while maintaining cost-effectiveness. I'm dedicated to addressing the evolving challenges in software security that arise from emerging features and the continuous development of programs. My ultimate objective is to strengthen systems against the ever-present cyber threats.
 
+Publications
+======
