@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "km.png"
   name             : "Kaiming Huang"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "PhD Candidate at PSU"
   location         : "State College, PA, USA"
   employer         : "Penn State University"
