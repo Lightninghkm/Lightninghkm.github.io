@@ -16,7 +16,7 @@ My primary area of expertise lies in advancing the field of software security, p
 Publications
 ======
 <div style="margin-bottom: 0px; margin-top: 0px;">
-  <h2 style="display: inline-block; margin-left: 0px; margin-bottom: 5px; margin-top: 3px; border: none; padding: 0;">3 Papers are in-submission process and are currently under review</h2>
+  <h2 style="display: inline-block; margin-left: 0px; margin-bottom: 5px; margin-top: 3px; border: none; padding: 0;">3 papers are the in-submission process and are currently under review.</h2>
 </div>
 
 ---
