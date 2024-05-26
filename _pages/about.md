@@ -16,7 +16,43 @@ My primary area of expertise lies in advancing the field of software security, p
 Publications
 ======
 <div style="margin-bottom: 0px;">
-  <h2 style="display: inline-block; margin-left: 0px;">Comprehensive Memory Safety Validation: An Alternative Approach to Memory Safety <a href="https://www.computer.org/csdl/magazine/sp/5555/01/10491404/1VSc5I8bM1q" style="background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-right: 10px;">PDF</a></h2>
-  <p><strong>Authors:</strong> Kaiming Huang, Mathias Payer, Zhiyun Qian, Jack Sampson, Gang Tan, Trent Jaeger.</p>
+  <h2 style="display: inline-block; margin-left: 0px;">Comprehensive Memory Safety Validation: An Alternative Approach to Memory Safety <a href="https://www.computer.org/csdl/magazine/sp/5555/01/10491404/1VSc5I8bM1q" style="font-size: 0.8em;">PDF</a></h2>
+  <p><strong>Kaiming Huang</strong>, Mathias Payer, Zhiyun Qian, Jack Sampson, Gang Tan, Trent Jaeger.</p>
   <p><em>IEEE Security and Privacy</em></p>
+</div>
+
+<div style="margin-bottom: 0px;">
+  <h2 style="display: inline-block; margin-left: 0px;">Assessing the Impact of Efficiently Protecting Ten Million Stack Objects from Memory Errors Comprehensively <a href="https://ieeexplore.ieee.org/document/10305620">PDF</a></h2>
+  <p><strong>Kaiming Huang</strong>, Jack Sampson, Trent Jaeger.</p>
+  <p><em>SecDev 2023</em></p>
+</div>
+
+<div style="margin-bottom: 0px;">
+  <h2 style="display: inline-block; margin-left: 0px;">Evolving Operating System Kernels Towards Secure Kernel-Driver Interfaces <a href="https://dl.acm.org/doi/pdf/10.1145/3593856.3595914">PDF</a></h2>
+  <p>Anton Burtsev, Vikram Narayanan, Yongzhe Huang, <strong>Kaiming Huang</strong>, Gang Tan, Trent Jaeger.</p>
+  <p><em>SecDev 2023</em></p>
+</div>
+
+<div style="margin-bottom: 0px;">
+  <h2 style="display: inline-block; margin-left: 0px;">KSplit: Automating Device Driver Isolation <a href="https://www.usenix.org/system/files/osdi22-huang-yongzhe.pdf">PDF</a></h2>
+  <p>Yongzhe Huang, Vikram Narayanan, David Detweiler, <strong>Kaiming Huang</strong>, Gang Tan, Trent Jaeger, Anton Burtsev.</p>
+  <p><em>HotOS 2023</em></p>
+</div>
+
+<div style="margin-bottom: 0px;">
+  <h2 style="display: inline-block; margin-left: 0px;">KSplit: Automating Device Driver Isolation <a href="https://www.usenix.org/system/files/osdi22-huang-yongzhe.pdf">PDF</a></h2>
+  <p>Yongzhe Huang, Vikram Narayanan, David Detweiler, <strong>Kaiming Huang</strong>, Gang Tan, Trent Jaeger, Anton Burtsev.</p>
+  <p><em>OSDI 2022</em></p>
+</div>
+
+<div style="margin-bottom: 0px;">
+  <h2 style="display: inline-block; margin-left: 0px;">The Taming of the Stack: Isolating Stack Data from Memory Errors <a href="https://www.ndss-symposium.org/wp-content/uploads/2022-60-paper.pdf">PDF</a></h2>
+  <p><strong>Kaiming Huang</strong>, Yongzhe Huang, Mathias Payer, Zhiyun Qian, Jack Sampson, Gang Tan, Trent Jaeger.</p>
+  <p><em>NDSS 2022</em></p>
+</div>
+
+<div style="margin-bottom: 0px;">
+  <h2 style="display: inline-block; margin-left: 0px;">Employing attack graphs for intrusion detection <a href="https://dl.acm.org/doi/pdf/10.1145/3368860.3368862">PDF</a></h2>
+  <p>Frank Capobianco, Rahul George, <strong>Kaiming Huang</strong>, Trent Jaeger, Srikanth Krishnamurthy, Zhiyun Qian, Mathias Payer, Paul Yu.</p>
+  <p><em>NSPW 2019</em></p>
 </div>
