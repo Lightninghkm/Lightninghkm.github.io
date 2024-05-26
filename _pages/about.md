@@ -16,9 +16,6 @@ My primary area of expertise lies in advancing the field of software security, p
 Publications
 ======
 <div style="margin-bottom: 20px;">
-  <div style="background-color: #0066cc; color: white; padding: 5px 10px; display: inline-block; border-radius: 5px;">
-    OOPSLA
-  </div>
   <h2 style="display: inline-block; margin-left: 10px;">Comprehensive Memory Safety Validation: An Alternative Approach to Memory Safety</h2>
   <p><strong>Authors:</strong> Kaiming Huang, Mathias Payer, Zhiyun Qian, Jack Sampson, Gang Tan, Trent Jaeger.</p>
   <p><em>IEEE Security and Privacy</em></p>
