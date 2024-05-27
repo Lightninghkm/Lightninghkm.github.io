@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Milestones"
-permalink: /Milestones/
+permalink: /milestones/
 author_profile: true
 ---
