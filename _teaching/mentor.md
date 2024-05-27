@@ -11,4 +11,5 @@ location: "State College, USA"
 Mentored 3 undergraduate students for their Honor Thesis.
 
 2 Students on "Integrating Memory Safety Validation to Programming IDEs for Enhanced Security Awareness".
+
 1 Student on "Analysis of Memory Safety Enforcement on ARM Morello Machine."
