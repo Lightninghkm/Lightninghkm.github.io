@@ -6,6 +6,6 @@ excerpt: 'Kaiming Huang, Mathias Payer, Zhiyun Qian, Jack Sampson, Gang Tan, Tre
 date: 2024-02-17
 venue: 'IEEE Security and Privacy'
 paperurl: 'https://www.computer.org/csdl/magazine/sp/5555/01/10491404/1VSc5I8bM1q'
-slideurl: 'http://academicpages.github.io/files/paper3.pdf'
-codeurl: 'http://academicpages.github.io/files/paper3.pdf'
+slidesurl: 'http://academicpages.github.io/files/paper3.pdf'
+code: 'http://academicpages.github.io/files/paper3.pdf'
 ---
