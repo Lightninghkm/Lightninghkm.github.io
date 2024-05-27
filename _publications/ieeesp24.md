@@ -7,5 +7,4 @@ date: 2024-02-17
 venue: 'IEEE Security and Privacy'
 slidesurl: 'http://academicpages.github.io/files/paper3.pdf'
 paperurl: 'https://www.computer.org/csdl/magazine/sp/5555/01/10491404/1VSc5I8bM1q'
-code: 'http://academicpages.github.io/files/paper3.pdf'
 ---
