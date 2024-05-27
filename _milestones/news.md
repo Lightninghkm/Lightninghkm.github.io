@@ -1,3 +1,10 @@
+---
+title: "Milestones"
+layout: single-portfolio
+excerpt: " "
+collection: milestones
+---
+
 Milestones
 ======
 [05/13/2024] Started my visiting scholar position at UC Riverside, and will participate in the DARPA AIxCC Event.
