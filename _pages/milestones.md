@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[05/28/2024] The paper "OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget" has been accepted to USENIX Security 2024.
+
 [05/13/2024] Started my visiting scholar position at UC Riverside, and will participate in the DARPA AIxCC Event.
 
 [02/17/2024] The paper "Comprehensive Memory Safety Validation: An Alternative Approach to Memory Safety" has been accepted by IEEE Security and Privacy.
