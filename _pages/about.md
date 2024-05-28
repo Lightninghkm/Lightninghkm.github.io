@@ -16,7 +16,15 @@ My primary area of expertise lies in advancing the field of software security, p
 Publications
 ======
 <div style="margin-bottom: 0px; margin-top: 0px;">
-  <h2 style="display: inline-block; margin-left: 0px; margin-bottom: 5px; margin-top: 3px; border: none; padding: 0;">3 papers are the in-submission process and are currently under review.</h2>
+  <h2 style="display: inline-block; margin-left: 0px; margin-bottom: 5px; margin-top: 3px; border: none; padding: 0;">2 papers are the in-submission process and are currently under review.</h2>
+</div>
+
+---
+
+<div style="margin-bottom: 0px; margin-top: 0px;">
+  <h2 style="display: inline-block; margin-left: 0px; margin-top: 3px; border: none; padding: 0;">OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget <a href="https://lightninghkm.github.io/" style="font-size: 0.8em;">PDF</a></h2>
+  <p style="margin-bottom: 0px; margin-top: 0px;">Rahul George, Mingming Chen, <strong>Kaiming Huang</strong>, Zhiyun Qian, Thomas La Porta, Trent Jaeger.</p>
+  <p style="margin-bottom: 5px; margin-top: 0px;"><em>USENIX Security 2024</em></p>
 </div>
 
 ---
