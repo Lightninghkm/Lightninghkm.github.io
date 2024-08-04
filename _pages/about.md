@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 4th year PhD Candidate in the [Computer Science and Engineering Department](https://www.eecs.psu.edu/) at [the Pennsylvania State University](https://www.psu.edu/). I am very fortunate to be advised by [Dr. Trent Jaeger](http://trentjaeger.com/), I also work closely with [Dr. Mathias Payer](https://nebelwelt.net/) at EPFL, [Dr. Jack Sampson](https://www.cse.psu.edu/~jms1257/) and [Dr. Gang Tan](https://www.cse.psu.edu/~gxt29/) at PSU, and [Dr. Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) at UC Riverside.
+I'm a 4th year PhD Candidate in the [Computer Science and Engineering Department](https://www.eecs.psu.edu/) at [the Pennsylvania State University](https://www.psu.edu/). I am very fortunate to be advised by [Dr. Trent Jaeger](http://trentjaeger.com/), I also work closely with [Dr. Mathias Payer](https://nebelwelt.net/) at EPFL, [Dr. Gang Tan](https://www.cse.psu.edu/~gxt29/) and [Dr. Jack Sampson](https://www.cse.psu.edu/~jms1257/) at PSU, and [Dr. Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) at UC Riverside.
 
 Research Interests
 ======
