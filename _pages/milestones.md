@@ -11,6 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[09/04/2024] I am awarded the ACM CCS 2024 Student Travel Grant. Many thanks to the Student Grant Committee for the support and my advisor Trent Jaeger for the super strong and heartening recommendation letter!
+
+[07/23/2024] The paper "Top of the Heap: Efficient Memory Error Protection of Safe Heap Objects" has been accepted to ACM CCS 2024.
+
 [05/28/2024] The paper "OPTISAN: Using Multiple Spatial Error Defenses to Optimize Stack Memory Protection within a Budget" has been accepted to USENIX Security 2024.
 
 [05/13/2024] Started my visiting scholar position at UC Riverside, and will participate in the DARPA AIxCC Event.
