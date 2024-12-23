@@ -11,6 +11,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[12/23/2024] My Doctoral Dissertation, "Practical Comprehensive Memory Safety", was approved by Penn State Graduate School. Congratulations to myself!
+
+[12/06/2024] Passed my Doctoral Dissertation Defense. Many thanks to all my committee members, Dr. Trent Jaeger, Dr. Jack Sampson, Dr. Gang Tan, Dr. Peng Liu, and Dr. Mathias Payer. Thanks to all of the people that I have met and collaborated with over the years!
+
+[10/15/2024] Attended ACM CCS 2024 and presented my paper "Top of the Heap: Efficient Memory Error Protection of Safe Heap Objects".
+
 [09/04/2024] I am awarded the ACM CCS 2024 Student Travel Grant. Many thanks to the Student Grant Committee for the support and my advisor Trent Jaeger for the super strong and heartening recommendation letter!
 
 [07/23/2024] The paper "Top of the Heap: Efficient Memory Error Protection of Safe Heap Objects" has been accepted to ACM CCS 2024.
