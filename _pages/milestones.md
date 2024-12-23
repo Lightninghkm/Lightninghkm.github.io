@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.milestones %}
-  {% include archive-single.html %}
-{% endfor %}
-
 [12/23/2024] My Doctoral Dissertation, "Practical Comprehensive Memory Safety", was approved by Penn State Graduate School. Congratulations to myself!
 
 [12/06/2024] Passed my Doctoral Dissertation Defense. Many thanks to all my committee members, Dr. Trent Jaeger, Dr. Jack Sampson, Dr. Gang Tan, Dr. Peng Liu, and Dr. Mathias Payer. Thanks to all of the people that I have met and collaborated with over the years!
