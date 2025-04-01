@@ -57,7 +57,7 @@ Publications
 <div style="margin-bottom: 0px; margin-top: 0px;">
   <h2 style="display: inline-block; margin-left: 0px; margin-top: 3px; border: none; padding: 0;">Comprehensive Memory Safety Validation: An Alternative Approach to Memory Safety <a href="https://www.computer.org/csdl/magazine/sp/5555/01/10491404/1VSc5I8bM1q" style="font-size: 0.8em;">PDF</a></h2>
   <p style="margin-bottom: 0px; margin-top: 0px;"><strong>Kaiming Huang</strong>, Mathias Payer, Zhiyun Qian, Jack Sampson, Gang Tan, Trent Jaeger.</p>
-  <p style="margin-bottom: 5px; margin-top: 0px;"><em>IEEE Security and Privacy</em></p>
+  <p style="margin-bottom: 5px; margin-top: 0px;"><em>IEEE Security and Privacy Magazine</em></p>
 </div>
 
 ---
